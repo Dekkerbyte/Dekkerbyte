@@ -1,16 +1,13 @@
-## Hi there 👋
+🪐 Hello World, I'm Dekkerbyte
 
-<!--
-**Dekkerbyte/Dekkerbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Front-End Developer & Tech Enthusiast
+I'm a developer returning to the craft, currently building modern web experiences with a focus on clean code and interactive design.
 
-Here are some ideas to get you started:
+###🛠 My Current Toolkit
+* **Structure:** HTML5 (Semantic & Accessible)
+* **Style:** CSS3 (Flexbox & Grid)
+* **Logic:** JavaScript (Learning ES6+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🔋 Other Interests
+* **Energy Physics:** Fascinated by gas turbines and power grid efficiency.
+* **Hardware:** Mechanical keyboards and ASMR-driven coding environments.
