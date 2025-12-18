@@ -10,4 +10,5 @@ I'm a developer returning to the craft, currently building modern web experience
 
 ###🔋 Other Interests
 * **Energy Physics:** Fascinated by gas turbines and power grid efficiency.
-* **Hardware:** Mechanical keyboards and ASMR-driven coding environments.
+
+*“Code is like energy; it’s all about the most efficient transfer of logic.”*
